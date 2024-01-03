@@ -1,0 +1,186 @@
+.header
+{
+    background-color: rgb(0, 0, 0,0.4);
+    color: white;
+}
+.lab
+{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.la
+{
+    text-align: center;
+}
+.section
+{
+    margin-top: 2%;
+    margin-left: 2%;
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(0, 0, 0,0.3);
+}
+button
+{
+    width: 100px;
+    height: 35px;
+    background-color: black;
+    color: white;
+}
+section img
+{
+    width: 150px;
+    height: 150px;
+    padding-top: 5%;
+}
+.clothes
+{
+    display: flex;
+}
+.shoes
+{
+    display: flex;
+}
+.bags
+{
+    display: flex;
+}
+.watches
+{
+    display: flex;
+}
+.l
+{
+    text-decoration: none;
+    color: white;
+}
+footer
+{
+    background-color: rgb(0, 0, 0,0.4);
+    color: black;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+}
+h1
+{
+    font-size: larger;
+}
+div:not(:target)
+{
+    display: none;
+}
+.h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.shop
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 375px;
+    height: 320px;
+    background-color: rgb(0, 0, 0,0.3);
+}
+.t-shirt1
+{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.t-shirt1 button
+{
+    width: 40px;
+    height: 30px;
+
+}
+.e
+{
+    display:flex;
+    width: 120px;
+    height: 30px;
+    border: 2px solid white;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.m
+{
+    margin-top: 6%;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t
+{
+    margin-top: 11%;
+    margin-left: -7%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.j
+{
+    margin-top: 15%;
+    margin-left: -6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c
+{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.shopp
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 375px;
+    height: 320px;
+    background-color: rgba(198, 108, 172, 0.3);
+}
+.shoppp
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 375px;
+    height: 320px;-
+
+
+
+
+
+    
+    background-color: rgba(26, 159, 59, 0.3);
+}
+.shopppp
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 375px;
+    height: 320px;
+    background-color: rgba(57, 20, 205, 0.3);
+}
